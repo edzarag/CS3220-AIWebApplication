@@ -1,0 +1,15 @@
+.panel {
+    background-color: #ff726f;
+    padding: 20px;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.navbar {
+    background-color: #ff726f !important;
+}
+
+.nav-link,
+.navbar-brand {
+    color: #fff !important;
+}
