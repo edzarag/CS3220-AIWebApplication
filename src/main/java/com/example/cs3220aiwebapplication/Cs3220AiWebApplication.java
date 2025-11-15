@@ -9,5 +9,4 @@ public class Cs3220AiWebApplication {
     public static void main(String[] args) {
         SpringApplication.run(Cs3220AiWebApplication.class, args);
     }
-
 }
